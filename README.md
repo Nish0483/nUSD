@@ -2,6 +2,27 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+this solidity project created with react used to mint token named nUSD and we can deposit eth to get nUSD and withdraw to get back eth with added ROI with respected time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
